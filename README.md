@@ -5,7 +5,7 @@ This repository contains code for a simple webpage with an animated navigation m
 
 **Demo:**
 
-Check out the [demo](https://osama206.github.io/Animated-Navigation/) to see the Webpage in action.
+Check out the [demo](https://osama206.github.io/animated-navigation/) to see the Webpage in action.
 
 **Files Included:**
 1. `index.html`: HTML file containing the webpage structure.
@@ -19,12 +19,12 @@ Follow these steps to clone and run the Animated Navigation Webpage:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/osama206/Animated-Navigation.git
+   git clone https://github.com/osama206/animated-navigation.git
    ```
 
 2. **Navigate to the Repository:**
    ```
-   cd Animated-Navigation
+   cd animated-navigation
    ```
 
 3. **Open in a Web Browser:**
