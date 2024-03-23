@@ -35,7 +35,7 @@ Follow these steps to clone and run the Animated Navigation Webpage:
 Contributions to enhance the functionality or improve the design are welcome. Feel free to fork the repository, make your changes, and submit a pull request.
 
 **Author:**
-[Osama] - [Your GitHub Profile](https://github.com/osama206)
+[Osama](https://github.com/osama206)
 
 **Note:**
 This project is created for educational purposes and may be used as a template for building similar webpages with animated navigation menus.
