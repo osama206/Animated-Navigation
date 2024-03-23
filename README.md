@@ -3,6 +3,10 @@
 **Description:**
 This repository contains code for a simple webpage with an animated navigation menu. The navigation menu slides in from the left when activated, providing seamless navigation through different sections of the webpage.
 
+**Demo:**
+
+Check out the [demo](https://osama206.github.io/Animated-Navigation/) to see the Webpage in action.
+
 **Files Included:**
 1. `index.html`: HTML file containing the webpage structure.
 2. `style.css`: CSS file for styling the webpage layout.
